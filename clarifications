@@ -1,0 +1,22 @@
+191 docs for training
+120 docs for testing
+
+Objectives:
+A. concepts which will have relations (concept extraction)
+B. Temporal relations
+C. linking them
+
+- we have to do anchoring for dates and other stuff. Like event-event or event-time
+
+figure out the relation type as well.
+
+extend field and telling file for each input raw file.
+
+google colab
+
+clamp -  for tokenizing
+
+heideltime
+
+both models will be scored so we need to make sure both models are highly accurate.
+
